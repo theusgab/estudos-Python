@@ -1,0 +1,7 @@
+# OPERADORES DE ATRIBUIÇÃO
+
+"""
+= += -= *= /= //= **= %=
+"""
+
+
